@@ -1,4 +1,4 @@
-# Verivox_QA_Test
+# CYPRESS AUTOMATION
 
 Test suite is developed using Cypress and Cucumber BDD
 
